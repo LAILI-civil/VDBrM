@@ -28,7 +28,7 @@ Copyright (c) 2025-2026 Li LAI <civil-li.lai@connect.polyu.hk> and You DONG <you
 Li LAI <br>
 A PhD graduate from Hong Kong Polytechnic University <br>
 You DONG <br>
-Associate Professor at Hong Kong Polytechnic University <br>
+Professor at Hong Kong Polytechnic University <br>
 Research in infrastructure management, life cycle risk control, climate change, city resilience, digital twins, and sustainability. <br>
 [Research interest](https://youdongpolyu.weebly.com/)
 
